@@ -16,7 +16,7 @@
 <a name="project_motivation"></a>
 ## Project Motivation
 
-This project analyses disaster data from [Figure Eight](https://appen.com/) to build a model for an API that calssifies disaster messages. It is a part of a Data Science Nanodegree program by Udacity. The data set contains real messages that were sent during disaster events. The project aims to create a Natural Language Processing(NLP) machine learning pipleine to categorize these events so that the messages can be sent to an appropriate disaster relief agency. The project includes a web app where an emergency worker can input a new message and get classsification results in several categories. The web app will also display visualizations of the data.
+This project analyses disaster data from [Figure Eight](https://www.figure-eight.com/) to build a model for an API that calssifies disaster messages. It is a part of a Data Science Nanodegree program by Udacity. The data set contains real messages that were sent during disaster events. The project aims to create a Natural Language Processing(NLP) machine learning pipleine to categorize these events so that the messages can be sent to an appropriate disaster relief agency. The project includes a web app where an emergency worker can input a new message and get classsification results in several categories. The web app will also display visualizations of the data.
 
 The project is has three major categories:
 
@@ -129,9 +129,9 @@ The screenshots of main results are presented and describes in this section.
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
 <a name="acknowledgement"></a>
 ## Acknowledgement
-* [Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
-* [Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset to train the model
+* We would like to thank [Udacity](https://www.udacity.com/) for this project and [Figure Eight](https://www.figure-eight.com/) for the data sets.
 
 
