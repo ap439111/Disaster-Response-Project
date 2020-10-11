@@ -31,7 +31,7 @@ The project is has three major categories:
   
   The repository can be cloned by: 
   
-    git clone  https://github.com/ap439111/Disaster-Response-Project.git
+    > git clone  https://github.com/ap439111/Disaster-Response-Project.git
     
 
 <a name="run"></a>
@@ -121,7 +121,7 @@ The screenshots of main results are presented and describes in this section.
 ![Classify1_2](pics/classify1_2.png)
 
     8. Second query: "how is it possible we don't have access to food". This message is classified into follwoing categoreies:
-       1) relevant 2)Air Related 3) Food
+       1) relevant 2)Air Related 3) Food 4)Direct report
 ![Classify2](pics/classify2.png)
 
 
@@ -132,6 +132,6 @@ The screenshots of main results are presented and describes in this section.
 
 <a name="acknowledgement"></a>
 ## Acknowledgement
-* We would like to thank [Udacity](https://www.udacity.com/) for this project and [Figure Eight](https://www.figure-eight.com/) for the data sets.
+* We want to thank [Udacity](https://www.udacity.com/) for this project and [Figure Eight](https://www.figure-eight.com/) for the data sets.
 
 
