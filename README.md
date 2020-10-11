@@ -46,10 +46,24 @@ The project is has three major categories:
       
   To display app, go to:
   
-      [here](http://0.0.0.0:3001/)
+      http://0.0.0.0:3001/
      
+## Files Descriptions
+
+  There are three folders:
   
+   1. data
+        
+        This folder contains following files:
+          i.  ETL_Pipeline_Preparation.ipynb: ETL Pipeline preparation notebook
+          ii. process_data.py: ETL pipleine (python script) to extract data and features, transform the data and load it in SQLite database
+          iii. Data files: messages.csv and categories.csv
+          iv. disaster_response.db: Cleanded SQLite database file
+              
+  2. model
   
+        This folder contains following files:
+          i. 
 
 
 
