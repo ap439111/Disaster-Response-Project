@@ -1,6 +1,6 @@
 # Disaster-Response-Project
 
-![Intro Pic](pictures/intro.png)
+![Intro Pic](pics/intro.png)
 
 ## Table of Contents
 
