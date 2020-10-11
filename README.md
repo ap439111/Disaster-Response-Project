@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-1. Project Motivation
-2. Dependencies and Installations
-3. Results 
+1. [Project Motivation](#Project-Motivation)
+2. [Installations](#Installations)
+3. [Results](#Results) 
 
 # Table of Contents
 1. [Example](#example)
