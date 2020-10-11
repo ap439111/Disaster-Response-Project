@@ -92,6 +92,11 @@ The project is has three major categories:
 <a name="results"></a>
 ## Results
 
+The screenshots of main results are presented and describes in this section.
+
+    1. Dataframe after merging the messages.csv and categories.csv data. The data is uncleaned.
+          ![Merged data](pics/merged_data.png)        
+
 
 
 
