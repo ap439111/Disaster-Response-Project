@@ -1,5 +1,7 @@
 # Disaster-Response-Project
 
+![Intro Pic](pictures/intro.png)
+
 ## Table of Contents
 
 1. [Project Motivation](#project_motivation)
@@ -82,6 +84,10 @@ The project is has three major categories:
       
           i. templates: this folder contains two html files go.html and master.html to run the web app
           ii. run.py:  python script can be used to launch the Flask web app to classify disaster messages
+          
+  4. pictures
+  
+        This folder contains screenshots of the main results.
           
 <a name="results"></a>
 ## Results
