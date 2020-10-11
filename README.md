@@ -4,8 +4,9 @@
 
 1. [Project Motivation](#Project-Motivation)
 2. [Installation](#Installations)
-3. [File Descriptions](#File-Descriptions)
-3. [Results](#Results) 
+3. [Run](#Run)
+4. [File Descriptions](#File-Descriptions)
+5. [Results](#Results) 
 
 ## Project Motivation
 
@@ -20,9 +21,29 @@ The project is has three major categories:
 ## Installation  
 
   Requires Python 3+
+  
   The repository can be cloned by: 
   
     git clone  https://github.com/ap439111/Disaster-Response-Project.git
+    
+  
+## Run
+
+     cd Disaster-Response-Project
+     
+  To run the ETL pipeline:
+  
+      python data/process_data.py data/messages.csv data/categories.csv data/disaster_response.db
+      
+  To run the ML pipeline:
+  
+      python models/train_classifier.py data/disaster_response.db models/classifier.pkl
+      
+  To run the web app:
+  
+      cd app
+      python run.py
+     
   
   
 
