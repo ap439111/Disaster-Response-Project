@@ -2,12 +2,14 @@
 
 ## Table of Contents
 
-1. [Project Motivation](#Project-Motivation)
+1. [Project Motivation](#project_motivation)
 2. [Installation](#Installations)
 3. [Run](#Run)
 4. [File Descriptions](#File-Descriptions)
 5. [Results](#Results) 
 
+
+<a name="project_motivation"></a>
 ## Project Motivation
 
 This project analyses disaster data from [Figure Eight](https://appen.com/) to build a model for an API that calssifies disaster messages. It is a part of a Data Science Nanodegree program by Udacity. The data set contains real messages that were sent during disaster events. The project aims to create a Natural Language Processing(NLP) machine learning pipleine to categorize these events so that the messages can be sent to an appropriate disaster relief agency. The project includes a web app where an emergency worker can input a new message and get classsification results in several categories. The web app will also display visualizations of the data.
