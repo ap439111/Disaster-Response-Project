@@ -3,10 +3,10 @@
 ## Table of Contents
 
 1. [Project Motivation](#project_motivation)
-2. [Installation](#Installations)
-3. [Run](#Run)
-4. [File Descriptions](#File-Descriptions)
-5. [Results](#Results) 
+2. [Installation](#installation)
+3. [Run](#run)
+4. [File Descriptions](#file_descriptions)
+5. [Results](#results) 
 
 
 <a name="project_motivation"></a>
@@ -20,6 +20,7 @@ The project is has three major categories:
   2. Build NLP machine learning (ML) pipleine to classify messages in several categories.
   3. Build a web app which can calssify the message using models in the real time.
   
+<a name="installation"></a>
 ## Installation  
 
   Requires Python 3+
@@ -28,7 +29,8 @@ The project is has three major categories:
   
     git clone  https://github.com/ap439111/Disaster-Response-Project.git
     
-  
+
+<a name="run"></a>
 ## Run
 
      > cd Disaster-Response-Project
@@ -50,6 +52,7 @@ The project is has three major categories:
   
       http://0.0.0.0:3001/
      
+<a name="files_descriptions"></a>
 ## Files Descriptions
 
   There are three folders:
