@@ -29,20 +29,24 @@ The project is has three major categories:
   
 ## Run
 
-     cd Disaster-Response-Project
+     > cd Disaster-Response-Project
      
   To run the ETL pipeline:
   
-      python data/process_data.py data/messages.csv data/categories.csv data/disaster_response.db
+      > python data/process_data.py data/messages.csv data/categories.csv data/disaster_response.db
       
   To run the ML pipeline:
   
-      python models/train_classifier.py data/disaster_response.db models/classifier.pkl
+      > python models/train_classifier.py data/disaster_response.db models/classifier.pkl
       
   To run the web app:
   
-      cd app
-      python run.py
+      > cd app
+      > python run.py
+      
+  To display app, go to:
+  
+       http://0.0.0.0:3001/
      
   
   
