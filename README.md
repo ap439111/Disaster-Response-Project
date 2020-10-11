@@ -9,6 +9,8 @@
 3. [Run](#run)
 4. [File Descriptions](#file_descriptions)
 5. [Results](#results) 
+6. [License](#license)
+7. [Acknowledgement](#acknowledgement)
 
 
 <a name="project_motivation"></a>
@@ -122,5 +124,14 @@ The screenshots of main results are presented and describes in this section.
        1) relevant 2)Air Related 3) Food
 ![Classify2](pics/classify2.png)
 
+
+<a name="license"></a>
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<a name="acknowledgement"></a>
+## Acknowledgement
+* [Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
+* [Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset to train the model
 
 
