@@ -3,12 +3,13 @@
 ## Table of Contents
 
 1. [Project Motivation](#Project-Motivation)
-2. [Installations](#Installations)
+2. [Installation](#Installations)
+3. [File Descriptions](#File-Descriptions)
 3. [Results](#Results) 
 
 ## Project Motivation
 
-This project analyses disaster data from [Figure Eight](www.figure8.com) to build a model for an API that calssifies disaster messages. It is a part of a Data Science Nanodegree program by Udacity. The data set contains real messages that were sent during disaster events. The project aims to create a Natural Language Processing(NLP) machine learning pipleine to categorize these events so that the messages can be sent to an appropriate disaster relief agency. The project includes a web app where an emergency worker can input a new message and get classsification results in several categories. The web app will also display visualizations of the data.
+This project analyses disaster data from [Figure Eight](https://appen.com/) to build a model for an API that calssifies disaster messages. It is a part of a Data Science Nanodegree program by Udacity. The data set contains real messages that were sent during disaster events. The project aims to create a Natural Language Processing(NLP) machine learning pipleine to categorize these events so that the messages can be sent to an appropriate disaster relief agency. The project includes a web app where an emergency worker can input a new message and get classsification results in several categories. The web app will also display visualizations of the data.
 
 The project is has three major categories:
 
@@ -16,6 +17,13 @@ The project is has three major categories:
   2. Build NLP machine learning (ML) pipleine to classify messages in several categories.
   3. Build a web app which can calssify the message using models in the real time.
   
+## Installation  
+
+  Requires Python 3+
+  The repository can be cloned by:
   
+  
+
+
 
 
