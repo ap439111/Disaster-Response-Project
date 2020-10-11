@@ -78,7 +78,13 @@ The project is has three major categories:
   3. app
   
         This folder contains following folder and files:
-        i. 
+        
+      
+          i. templates: this folder contains two html files go.html and master.html to run the web app
+          ii. run.py:  python script can be used to launch the Flask web app to classify disaster messages
+          
+<a name="results"></a>
+## Results
 
 
 
