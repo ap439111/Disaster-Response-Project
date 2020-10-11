@@ -94,9 +94,33 @@ The project is has three major categories:
 
 The screenshots of main results are presented and describes in this section.
 
-    1. Dataframe after merging the messages.csv and categories.csv data. The data is uncleaned.
-![Merged data](pics/merged_data.png)                  
+    1. Dataframe after merging the messages.csv and categories.csv data using ETL pipeline notebook. The data is uncleaned.
+![Merged data](pics/merged_data.png)     
 
+    2. Cleaned data frame from ETL pipeline notebook.
+![Cleaned data](pics/cleaned_data.png)  
+  
+    3. Model performance for test data from ML pipeline notebook
+![Results Trained](pics/results_trained_model.png)
+
+    4. Lauch web app using the command: python run.py
+       Leave the following screen open to launch the app by typing http://0.0.0.0:3001/ in the brower.
+![Launch Web](pics/web_launch.png)
+
+    5. Overview of different messages genre in training the set. Three messages genres are direct, news and social media.
+![Overview](pics/overview.png)
+
+    6. Input the query on the web app.
+![query1](pics/query_msg1.png)
+
+    7. Results for first query: "the flood can be followed by an earthquake". The message is classified into four categories:
+       1) relevant 2) Weather Related 3) Floods 4) Earthquake
+![Classify1](pics/classify1.png)
+![Classify1_2](pics/classify1_2.png)
+
+    8. Second query: "how is it possible we don't have access to food". This message is classified into follwoing categoreies:
+       1) relevant 2)Air Related 3) Food
+![Classify2](pics/classify2.png)
 
 
 
