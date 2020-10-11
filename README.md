@@ -46,7 +46,7 @@ The project is has three major categories:
       
   To display app, go to:
   
-       [http://0.0.0.0:3001/]
+       (http://0.0.0.0:3001/)
      
   
   
