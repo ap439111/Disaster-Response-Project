@@ -8,17 +8,6 @@
 
 ## Project Motivation
 
-This project analyses disaster data from Figure Eight to build a model for an API that calssifies disaster messages.
-
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+This project analyses disaster data from Figure Eight to build a model for an API that calssifies disaster messages. It is a part of a Data Science Nanodegree program by Udacity. The data set contains real messages that were sent during disaster events. The aim is to create a machine learning pipleine to categorize these events so that the messages cab be sent to an appropriate disaster relief agency. The project includes a web app where an emergency worker can input a new message and get classsification results in several categories. The web app will also display visualizations of the data.
 
 
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com)
- 
