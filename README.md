@@ -7,7 +7,7 @@
 1. [Project Motivation](#project_motivation)
 2. [Installation](#installation)
 3. [Run](#run)
-4. [File Descriptions](#file_descriptions)
+4. [Files Descriptions](#files_descriptions)
 5. [Results](#results) 
 6. [License](#license)
 7. [Acknowledgement](#acknowledgement)
