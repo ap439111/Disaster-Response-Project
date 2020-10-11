@@ -20,7 +20,8 @@ The project is has three major categories:
 ## Installation  
 
   Requires Python 3+
-  The repository can be cloned by:
+  The repository can be cloned by: 
+    git clone  https://github.com/ap439111/Disaster-Response-Project.git
   
   
 
