@@ -69,7 +69,16 @@ The project is has three major categories:
   2. model
   
         This folder contains following files:
-          i. 
+        
+        
+          i.  ML_Pipeline_Preparation.ipynb: ML pipeline preparation notebook
+          ii. train_classifier.py: ML pipeline to load the SQLite database, train the ML model and save the model as pickle file. 
+          iii. classifier.pkl: Saved model
+          
+  3. app
+  
+        This folder contains following folder and files:
+        i. 
 
 
 
